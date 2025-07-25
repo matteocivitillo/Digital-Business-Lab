@@ -1,7 +1,7 @@
 # Digital Business Innovation Lab  
 ## HR Consulting Project – SACE S.p.A.
 
-### 🚀 Overview
+### Overview
 
 This project was developed within the Digital Business Innovation Lab course (2024–2025) at Politecnico di Milano in collaboration with **SACE S.p.A.**, Italy's export credit agency.
 
@@ -15,7 +15,7 @@ The project involved deep internal and external analysis, user interviews, a sur
 
 ---
 
-### 📌 Project Objectives
+### Project Objectives
 
 - Increase engagement with HR platforms by up to 50%
 - Promote skill development and internal mobility
@@ -24,7 +24,7 @@ The project involved deep internal and external analysis, user interviews, a sur
 
 ---
 
-### 🧠 Our Solution: **SACE Human+**
+### Our Solution: **SACE Human+**
 
 A 3-pillar AI-powered ecosystem designed to transform HR engagement:
 
@@ -36,7 +36,7 @@ The solution integrates with existing platforms (e.g., Workday, Coursera), is pr
 
 ---
 
-### 🛠️ Key Features
+### Key Features
 
 - Skill gap analysis & career pathing via AI
 - Monthly mood tracking and burnout prevention
@@ -46,7 +46,7 @@ The solution integrates with existing platforms (e.g., Workday, Coursera), is pr
 
 ---
 
-### 📊 Impact & Feasibility
+### Impact & Feasibility
 
 - Budget range: €15,000 – €40,000 depending on implementation level
 - Timeline: ~3–5 months
@@ -54,7 +54,7 @@ The solution integrates with existing platforms (e.g., Workday, Coursera), is pr
 
 ---
 
-### 👥 Team Members
+### Team Members
 
 - Xin Ye  
 - Matteo Civitillo  
@@ -69,9 +69,8 @@ Tutors: Natalia Bagnoli, Gabriele Boccoli
 
 ---
 
-### 📄 Full Report
+### Full Report
 
 For detailed analysis, methodology, and technical architecture, see the complete report:
-
-
+https://github.com/matteocivitillo/Digital-Business-Lab/blob/main/Final%20Report.pdf
 ---
