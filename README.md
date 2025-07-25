@@ -68,9 +68,8 @@ Supervised by:
 Tutors: Natalia Bagnoli, Gabriele Boccoli
 
 ---
+### 📄 Full Report
 
-### Full Report
+For detailed analysis, methodology, and technical architecture, see the [Final Report (PDF)](https://github.com/matteocivitillo/Digital-Business-Lab/blob/main/Final%20Report.pdf).
 
-For detailed analysis, methodology, and technical architecture, see the complete report:
-https://github.com/matteocivitillo/Digital-Business-Lab/blob/main/Final%20Report.pdf
 ---
